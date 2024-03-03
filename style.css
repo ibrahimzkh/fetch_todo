@@ -1,0 +1,41 @@
+.inputfirst{
+    background: rgb(203, 201, 201);
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+}
+.buttonfirst{
+    width: 70px;
+    height: 35px;
+    border-radius: 10px;
+    background: rgb(6, 6, 6);
+    color: white;
+}
+
+.div_general{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    background: rgb(158, 158, 203);
+    
+}
+.h1{
+    font-size: 50px;
+}
+.todoCss{
+   
+    text-align: center;
+}
+.buttonSecond{
+    background: black;
+    color: white;
+    border-radius: 5px;
+}
+.inputSecond{
+    background: rgb(203, 201, 201);
+}
+.buttonone{
+    background: black;
+    color: white;
+    border-radius: 5px;
+}
